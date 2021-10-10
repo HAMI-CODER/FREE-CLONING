@@ -19,7 +19,7 @@ pkg install git
 
 rm -rf HAMI
 
-git clone 
+git clone https://github.com/HAMI-CODER/FREE-CLONING.git
 
 
 cd FREE CLONING
